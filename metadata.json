@@ -1,0 +1,9 @@
+{
+  "name": "NexusHR AI - India's Premium Job Portal",
+  "description": "High-end Naukri-inspired job portal with HR/Candidate role-based access, AI ATS scoring, interview scheduling, and integrated communication tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
